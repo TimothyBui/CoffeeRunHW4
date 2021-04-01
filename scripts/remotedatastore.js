@@ -16,7 +16,6 @@
     
 
     firebase.initializeApp(firebaseConfig);
-    firebase.analytics();
 
     class RemoteDataStore {
         constructor() {
